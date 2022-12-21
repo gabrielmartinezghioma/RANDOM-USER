@@ -49,7 +49,10 @@ function App() {
         }
       </div>
 
-      <div className='div__button' style={{backgroundColor:colors[color]}}> 
+      <div className='div__button' 
+      style={
+        {backgroundColor:colors[color]}
+        }> 
         {<Button
         classStyle={'section__button'}
         click={() =>
