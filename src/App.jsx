@@ -7,15 +7,17 @@ import colors from './const/colors';
 
 function App() {
 
-  let numberRamdon = Math.floor(Math.random() * data.length);
-  console.log(numberRamdon);
-
-  const [indexRamdon, setIndexRamdom] = useState(numberRamdon);
 
   function newRamdom(array) {
     let indexNewRamdom = Math.floor(Math.random() * array.length);
     return indexNewRamdom;
   }
+
+  let numberRamdon = newRamdom(data)
+  console.log(numberRamdon);
+
+  const [indexRamdon, setIndexRamdom] = useState(numberRamdon);
+
 
   let color = newRamdom(colors)
 
@@ -37,14 +39,14 @@ function App() {
 
       <div className='section__div'>
         {<User
-          name={`${data[newRamdom(data)].name.title} ${data[newRamdom(data)].name.first} ${data[newRamdom(data)].name.last}`}
-          picture={`${data[newRamdom(data)].picture.large}`}
+          name={`${data[numberRamdon].name.title} ${data[numberRamdon].name.first} ${data[numberRamdon].name.last}`}
+          picture={`${data[numberRamdon].picture.large}`}
           iconEmail={<i className='bx bxs-envelope'></i>}
-          email={` ${data[newRamdom(data)].email}`}
+          email={` ${data[numberRamdon].email}`}
           iconPhone={<i className='bx bxs-phone'></i>}
-          phone={` ${data[newRamdom(data)].phone}`}
+          phone={` ${data[numberRamdon].phone}`}
           iconLocation={<i className='bx bxs-location-plus'></i>}
-          location={` ${data[newRamdom(data)].location.country} ${data[newRamdom(data)].location.state} ${data[newRamdom(data)].location.city}`}
+          location={` ${data[numberRamdon].location.country} ${data[numberRamdon].location.state} ${data[numberRamdon].location.city}`}
         />
         }
       </div>
@@ -57,7 +59,7 @@ function App() {
         classStyle={'section__button'}
         click={() =>
           setIndexRamdom(newRamdom(data))}
-        icon={<i class='bx bx-shuffle bx-tada' ></i>}
+        icon={<i className='bx bx-shuffle bx-tada' ></i>}
       />}
       </div>
 
