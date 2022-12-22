@@ -6,9 +6,9 @@
 
 **GABRIEL ALEJANDRO MARTINEZ**
 
-- [https://www.linkedin.com/in/gabrielmartinezghioma/](linhttps://www.linkedin.com/in/gabrielmartinezghioma/k)
+-	[https://www.linkedin.com/in/gabrielmartinezghioma/](linhttps://www.linkedin.com/in/gabrielmartinezghioma/k)
 
-- [https://gabrielmartinezghioma.github.io/Gabriel-sPortfolio/](https://gabrielmartinezghioma.github.io/Gabriel-sPortfolio/)
+-	[https://gabrielmartinezghioma.github.io/Gabriel-sPortfolio/](https://gabrielmartinezghioma.github.io/Gabriel-sPortfolio/)
 
 ## Ver ejemplo en vivo
 
