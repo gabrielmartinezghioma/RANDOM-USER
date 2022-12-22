@@ -7,19 +7,17 @@ import colors from './data/colors';
 
 function App() {
 
-
   function newRamdom(array) {
     let indexNewRamdom = Math.floor(Math.random() * array.length);
     return indexNewRamdom;
   }
 
-  let numberRamdon = newRamdom(data)
+  let numberRamdon = newRamdom(data);
  // console.log(numberRamdon);
 
   const [indexRamdon, setIndexRamdom] = useState(numberRamdon);
 
-
-  let color = newRamdom(colors)
+  let color = newRamdom(colors);
 
   const bgColor = {
     backgroundColor: colors[color],
@@ -31,7 +29,7 @@ function App() {
     alignItems: 'center',
     justifyContent: 'flex-start',
     alignItems: 'center',
-  }
+  };
 
   return (
 
