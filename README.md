@@ -12,16 +12,12 @@
 
 ## Ver ejemplo en vivo
 
-	[ENLACE DE GIT PAGES] (enlace)
+- [https://ramdonusers.netlify.app/](https://ramdonusers.netlify.app/)
 
 ## Instalacion 
 
-	Este proyecto no necesita instalación. Simplemente abre la carpeta o haz doble click en el .html
+	Este proyecto necesita instalación de node modules. Simplemente ejecuta en la carpeta contenedora del archivo clonado npm i, o, npm install
 
 ## Contratación 
-	Si quieres contratarme puedes escribirme a gabrielalejandromartinez@gheh.com
+	Si quieres contratarme puedes escribirme a gabrielalejandromartinez@gmail.com
 
-## Licencia
-
-	Mit Public License v3.0
-	No puede usarse comercialemente.
