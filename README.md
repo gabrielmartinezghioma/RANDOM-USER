@@ -13,7 +13,7 @@
 ## Ver ejemplo en vivo
 
 - [https://ramdonusers.netlify.app/](https://ramdonusers.netlify.app/)
-![Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
+![Image text](https://github.com/gabrielmartinezghioma/React-Academlo/blob/main/src/images/ilustracion.png)
 
 
 
