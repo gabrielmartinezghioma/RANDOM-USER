@@ -14,7 +14,7 @@ function App() {
   }
 
   let numberRamdon = newRamdom(data)
-  console.log(numberRamdon);
+ // console.log(numberRamdon);
 
   const [indexRamdon, setIndexRamdom] = useState(numberRamdon);
 
