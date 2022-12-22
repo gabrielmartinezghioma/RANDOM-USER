@@ -3,7 +3,7 @@ import data from './data/users.json'
 import User from './components/User'
 import { useState } from 'react';
 import Button from './components/Button';
-import colors from './const/colors';
+import colors from './data/colors';
 
 function App() {
 
