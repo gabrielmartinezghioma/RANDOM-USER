@@ -57,7 +57,7 @@ function App() {
         classStyle={'section__button'}
         click={() =>
           setIndexRamdom(newRamdom(data))}
-        icon={<i class='bx bx-shuffle' ></i>}
+        icon={<i class='bx bx-shuffle bx-tada' ></i>}
       />}
       </div>
 
