@@ -22,18 +22,11 @@ function App() {
   const bgColor = {
     backgroundColor: colors[color],
     color: colors[color],
-    width: '100vw',
-    height: '100vh',
-    display: 'flex',
-    flexDirection: 'column',
-    alignItems: 'center',
-    justifyContent: 'flex-start',
-    alignItems: 'center',
   };
 
   return (
 
-    <section style={bgColor} >
+    <section  className='section' style={bgColor} >
 
       <div className='section__div'>
         {<User
