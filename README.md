@@ -40,5 +40,5 @@
 	Este proyecto necesita instalación de node modules. Simplemente ejecuta en la carpeta contenedora del archivo clonado npm i, o, npm install
 
 ## Contratación 
-	Si quieres contratarme puedes escribirme a gabrielalejandromartinez4@gmail.com
+	Si quieres contratarme puedes escribirme a martinezgabrielalejandro4@gmail.com
 
