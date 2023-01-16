@@ -2,11 +2,13 @@
 
 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 		
-	This is a project developed in React, in which a highly functional and attractive application has been created that displays user information on a card in a dynamic and random way. 
+	This project is a CRUD (Create, Read, Update, and Delete) system for managing products, designed to make it easy to manage inventory in a retail store.
 
-	Additionally, it features a button that allows for seamless and quick random switching of users. The design is attractive and modern, with a background color, font, and button change for each user change. 
+	My CRUD product management system is an efficient tool for improving inventory management in any commercial business.
 
-	This application is highly scalable and user-friendly, making it a great idea for any project.
+	Using React and other technologies, I have developed a system that allows for basic CRUD operations to be performed simply and effectively. With this system, it is possible to keep accurate and up-to-date records of inventory, allowing for greater efficiency in product management.
+
+	I am sure this tool will be of great help to anyone looking for a more efficient way to manage their inventory.
 
 🇪🇸
 	
@@ -40,5 +42,5 @@
 	Este proyecto necesita instalación de node modules. Simplemente ejecuta en la carpeta contenedora del archivo clonado npm i, o, npm install
 
 ## Contratación 
-	Si quieres contratarme puedes escribirme a gabrielalejandromartinez@gmail.com
+	Si quieres contratarme puedes escribirme a martinezgabrielalejandro4@gmail.com
 
